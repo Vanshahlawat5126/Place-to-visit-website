@@ -1,0 +1,27 @@
+@media (min-width:1024px){
+  #navbar {position:fixed;
+  top:0;
+  left:0;
+  width:300px;
+  height:100vh;
+  background-color:#fff;
+  overflow-y:auto;
+  border-right:2px solid #ccc;
+  padding:20px;
+  box-sizing: border-box;
+
+  }
+  #main-doc{margin-left:300px;
+  padding:20px;}
+  .top-text{font-size:24px}
+  .nav-link{border: 1px solid #ddd;
+  margin:4px auto;
+  padding: 10px;
+  text-decoration: none;
+  color:inherit;
+  display:block;
+
+  }
+  .light-bold{font-size:14px;}
+
+}
